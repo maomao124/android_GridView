@@ -18,7 +18,7 @@
             android:id="@+id/Button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1" />
+            android:text="默认三列" />
 
     <Button
             android:id="@+id/Button3"
