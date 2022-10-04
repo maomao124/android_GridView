@@ -44,7 +44,7 @@
             android:id="@+id/Button6"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="拉伸模式 columnWidth"
+            android:text="拉伸模式 spacingWidth"
             android:textAllCaps="false"/>
 
     <Button
