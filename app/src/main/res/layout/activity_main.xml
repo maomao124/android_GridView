@@ -37,7 +37,21 @@
             android:id="@+id/Button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="1"
+            android:text="拉伸模式 columnWidth"
+            android:textAllCaps="false"/>
+
+    <Button
+            android:id="@+id/Button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="拉伸模式 columnWidth"
+            android:textAllCaps="false"/>
+
+    <Button
+            android:id="@+id/Button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="拉伸模式 columnWidth"
             android:textAllCaps="false"/>
 
 </LinearLayout>
