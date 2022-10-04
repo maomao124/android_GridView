@@ -51,7 +51,7 @@
             android:id="@+id/Button7"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="拉伸模式 columnWidth"
+            android:text="拉伸模式 spacingWidthUniform"
             android:textAllCaps="false"/>
 
 </LinearLayout>
