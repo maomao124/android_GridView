@@ -24,14 +24,6 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        findViewById(R.id.Button1).setOnClickListener(new View.OnClickListener()
-        {
-            @Override
-            public void onClick(View v)
-            {
-                startActivity(new Intent(MainActivity.this, MainActivity2.class));
-            }
-        });
 
         findViewById(R.id.Button2).setOnClickListener(new View.OnClickListener()
         {
@@ -47,7 +39,7 @@ public class MainActivity extends AppCompatActivity
             @Override
             public void onClick(View v)
             {
-                startActivity(new Intent(MainActivity.this, MainActivity2.class));
+                startActivity(new Intent(MainActivity.this, MainActivity4.class));
             }
         });
 
